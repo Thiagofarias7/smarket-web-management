@@ -7,7 +7,7 @@ A full LAMP web system for small supermarkets
 > [!IMPORTANT]
 > This repo correspond with ASDR (Net Service Administration) IT technician matter
 >
-> Me and [@thiagofarias7](https://github.com/thiagofarias7) developed this project
+> Me and [@manuelzzz](https://github.com/thiagofarias7) developed this project
 
 ## Getting Started
 >You need to have installed Apache2, MariaDB and PHP, with mysqli extension, on your machine with the package manager of your distro linux (in this case, we used the Fedora35):
